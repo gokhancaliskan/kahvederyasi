@@ -1,0 +1,129 @@
+* {
+	margin: 0;
+	padding: 0;
+	background-color: #2e3138;
+	font-family: "Instrument Serif", serif;
+}
+.topline {
+	background-color: #eb008b;
+	padding: 3px;
+}
+.navbar {
+	background-color: #2e3138;
+	display: flex;
+	padding: 10px;
+	align-items: center;
+	justify-content: center;
+}
+.photo {
+	width: 100%;
+	height: 100%;
+}
+.cardarea {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.categories {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.names {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.ProductsItems {
+	background-color: #eb008b;
+	color: #2e3138;
+
+	font-size: 6vw;
+	width: 45vw;
+	height: 45vw;
+	margin: 2vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.number {
+	background-color: #eb008b;
+	font-weight: bold;
+}
+.ProductsItems:hover {
+	background-color: #2e3138;
+	color: #eb008b;
+}
+
+.kd {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: transparent;
+}
+.cursor {
+	width: 24px;
+	height: 24px;
+	fill: transparent;
+	stroke: #eb008b;
+	stroke-width: 2;
+	position: absolute;
+	right: 0;
+	cursor: pointer;
+	padding: 12px;
+}
+.items {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding: 1vh;
+	gap: 2vh;
+	color: white;
+	font-size: 1.2rem;
+}
+.item {
+	width: 100%;
+	display: flex;
+	align-items: flex-start;
+	border: 2px solid #eb008b;
+}
+
+.left-column {
+	width: 30%;
+	display: flex;
+	flex-direction: column;
+}
+
+.right-column {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	padding-left: 1vw;
+}
+
+.product-name {
+	font-weight: bold;
+}
+
+.price {
+	align-self: flex-end;
+	margin-top: auto;
+	padding-right: 1vw;
+}
+img {
+	width: 100%;
+	height: 100%;
+}
+@media screen and (min-width: 600px) {
+	.ProductsItems {
+		width: 20vw;
+		height: 20vw;
+		font-size: 2vw;
+	}
+}

@@ -81,15 +81,15 @@ const Products = () => {
 							(category) => category.kategori === selectedCategory
 						)
 							.list.find((nameObj) => nameObj.name === selectedName)
-							.items.map((item) => (
-								<div key={item} className="item">
+							.items.map((item, index) => (
+								<div key={index} className="item">
 									<div className="left-column">
 										<img src="./kahvederyasi.jpg" alt="ürün resmi" />
 									</div>
 									<div className="right-column">
-										<div className="product-name">{item}</div>
-										<div className="product-content">İçerik</div>
-										<div className="price">10 TL</div>
+										<div className="product-name">{item.ürünadi}</div>
+										<div className="product-content">{item.icerik}</div>
+										<div className="price">{item.fiyat} TL</div>
 									</div>
 								</div>
 							))}

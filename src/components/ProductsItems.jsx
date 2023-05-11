@@ -5,19 +5,203 @@ const ProductsItems = [
 		list: [
 			{
 				name: "KAHVELER",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "ÇAYLAR",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "SICAK ÇİKOLATA",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "SALEP",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 		],
 	},
@@ -27,23 +211,253 @@ const ProductsItems = [
 		list: [
 			{
 				name: "SOĞUK KAHVE",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "MILKSHAKE",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "KOKTEYL",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "FROZEN",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "MEŞRUBATLAR",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 		],
 	},
@@ -53,35 +467,403 @@ const ProductsItems = [
 		list: [
 			{
 				name: "TAVUK YEMEKLERİ",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "ET YEMEKLERİ",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "APERATİFLER",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "MAKARNALAR",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "BURGER",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "SALATA",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "SANDWİCH",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "PİZZA",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 		],
 	},
@@ -91,19 +873,203 @@ const ProductsItems = [
 		list: [
 			{
 				name: "SUFLE",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "PASTALAR",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "WAFFLE",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 			{
 				name: "FONDÜ",
-				items: ["Tavuk Şiş", "Tavuklu Pilav", "Tavuklu Makarna"],
+				items: [
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuk Şiş",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Pilav",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+					{
+						ürünadi: "Tavuklu Makarna",
+						icerik: "Tavuk ŞişTavuklu Makarna",
+						fiyat: "10",
+					},
+				],
 			},
 		],
 	},
